@@ -16,6 +16,6 @@ or language courses that they are enrolled in, as well as any work experience th
 On the interactive side of the social media platform, students may post questions or concerns they may have to other students currently enrolled in the
 courses they are taking. 
 
-Admin functionalities also allow teachers to similarly create accounts, add courses to their profile, and interact with or monitor students'posts. 
+Admin functionalities also allow teachers to similarly create accounts, add courses to their profile, and interact with or monitor students' posts. 
 
 
